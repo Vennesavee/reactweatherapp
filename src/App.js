@@ -19,7 +19,7 @@ export default function App() {
                 <h1>
                   <li id="city-name"></li>
                 </h1>
-                <li id="date">Last updated :</li>
+                <li id="date">Last updated : 2 hours ago</li>
                 <li id="description"></li>
                 <li id="humidity"></li>
                 <li id="wind"></li>
