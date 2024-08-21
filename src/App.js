@@ -1,8 +1,10 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 
+
 import Header from "./Header";
 import Form from "./Form";
+
 import Temperature from "./Temperature.js";
 import Footer from "./Footer";
 
